@@ -1,12 +1,16 @@
-* {
-  background-color: green;  
-  color: aquamarine;
-  background-color: blanchedalmond;
-  display: flex;
-  justify-self: auto;
-  background-color: green;  
-  color: aquamarine;
-  background-color: blanchedalmond;
-  display: flex;
-  justify-self: auto;
+h1 {
+  color: red;
+  background-color: #ccc;
+}
+
+p {
+  color: green;
+  font-size: 30px;
+}
+
+div {
+  width: 400px;
+  height: 400px;
+  background-color: yellow;
+  color: white;
 }
